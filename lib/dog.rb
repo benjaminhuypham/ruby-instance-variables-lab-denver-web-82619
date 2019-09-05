@@ -1,3 +1,9 @@
-bro_greeting = "Sup, bro?"
+class Dog 
+  def name = (dog_name)
+    this_dog_name = dog_name 
+  end 
 
-bro_greeting.upcase
+  def name 
+    this_dog_name 
+  end 
+end 
